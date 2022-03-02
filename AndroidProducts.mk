@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_nio.mk
+    $(LOCAL_DIR)/exthm_nio.mk
